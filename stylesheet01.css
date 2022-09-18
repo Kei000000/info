@@ -19,6 +19,12 @@ li{
     padding: 100px 80px;
   }
 
+/*フォント登録*/
+@font-face{
+	font-family: "Antro Vectra";
+	src:url("Antro_Vectra.oft") format('oft');
+}
+
 .header-logo{
     background-color:rgba(85, 132, 172, 0.5);
     font-size: 65px;
